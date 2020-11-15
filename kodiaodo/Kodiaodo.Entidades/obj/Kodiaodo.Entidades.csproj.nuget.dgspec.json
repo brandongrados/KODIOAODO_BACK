@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bjavi\\source\\repos\\brandongrados\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj": {}
+    "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bjavi\\source\\repos\\brandongrados\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj": {
+    "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bjavi\\source\\repos\\brandongrados\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj",
         "projectName": "Kodiaodo.Entidades",
-        "projectPath": "C:\\Users\\bjavi\\source\\repos\\brandongrados\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj",
-        "packagesPath": "C:\\Users\\bjavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bjavi\\source\\repos\\brandongrados\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\Kodiaodo.Entidades.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\GitHub\\KODIOAODO_BACK\\kodiaodo\\Kodiaodo.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\bjavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
